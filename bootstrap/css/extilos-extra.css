@@ -1,6 +1,6 @@
 .hero-section {
     /* Reemplaza la URL por tu imagen */
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.6)), url('../../img/technology-7111760_1280.jpg');
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6)), url('../../img/technology-7111760_1280.jpg');
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
